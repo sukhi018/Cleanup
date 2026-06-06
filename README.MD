@@ -38,7 +38,7 @@ This project is designed for beginners to practice file system operations, Bash 
 
 ## ▶️ Usage
 
-### 1. Make script executable
+### Make script executable
 
 ```bash
 chmod +x cleanup.sh
